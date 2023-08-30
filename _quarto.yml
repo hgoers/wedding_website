@@ -1,0 +1,19 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Harriet and Declan's Wedding"
+  navbar:
+    right:
+      - href: index.qmd
+  back-to-top-navigation: true
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+

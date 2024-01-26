@@ -3,24 +3,21 @@ title: "Welcome!"
 toc-depth: 4
 ---
 
-We are looking forward to seeing you all for our wedding on 17 December 2023. This website provides you with some important information about the day. If you have any questions, please reach out to us.
+We are looking forward to seeing you all for our celebration at 12-3:30 pm on Saturday, 23 March 2024. This website provides you with some important information about the day. If you have any questions, please reach out to us.
 
-## Order of events
+## Celebratory lunch
 
 ::: columns
 ::: {.column width="30%"}
-### Ceremony {{< fa champagne-glasses >}}
+### Lunch {{< fa drumstick-bite >}}
 
-Come celebrate with a beautiful view. We will have our ceremony, enjoy some champagne, and take some photographs.
+Come celebrate with us over a beautiful meal. We will be having lunch at Orwell Road Restaurant in Rathgar, Dublin. 
 
-**When:** 4 pm to 5:30 pm
+**Location:** 8 Orwell Rd, Dublin 6, D06 H2Y5, Ireland
 
-**Where:** Blues Point Reserve, North Sydney
-
-<button onclick=" window.open(&#39;https://goo.gl/maps/uLrz9nLqgrVBJAxH8&#39;,&#39;_blank&#39;)">
+<button onclick=" window.open(&#39;https://maps.app.goo.gl/2xKXJC4eRJNSfN6FA&#39;,&#39;_blank&#39;)">
 
 Link to map
-
 </button>
 :::
 
@@ -28,38 +25,21 @@ Link to map
 :::
 
 ::: {.column width="30%"}
-### Reception {{< fa cake-candles >}}
+### Timing {{< fa clock >}}
 
-After the ceremony, we will head over to Enmore to enjoy a feast, hear some speeches, and drink some more!
+Please arrive at the restaurant for a welcome cocktail at 12 pm. We will finish up at 3:30 pm.
 
-**When:** 6:00 to 9:00 pm
+<br>
+**When:** Saturday, 23 March 2024 from 12 to 3:30 pm
 
-**Where:** Emma's Snack Bar, Enmore
-
-<button onclick=" window.open(&#39;https://goo.gl/maps/2EVsXXfNGRZ6j29d7&#39;,&#39;_blank&#39;)">
-
-Link to map
-
-</button>
 :::
 
 ::: {.column width="3%"}
 :::
 
 ::: {.column width="30%"}
-### After party {{< fa person-walking >}}
-
-Join us just a short walk away for some dancing and even more drinks! <br><br>
-
-**When:** 9:00 pm to late
-
-**Where:** Jacoby's Tiki Bar, Enmore <br><br>
-
-<button onclick=" window.open(&#39;https://goo.gl/maps/4PJ6eCxGVicTt6m48&#39;,&#39;_blank&#39;)">
-
-Link to map
-
-</button>
+### Drinks {{< fa beer-mug-empty >}}
+We will head across the road to the pub for a couple of drinks afterwards. Details to come.
 :::
 :::
 
@@ -67,104 +47,20 @@ Link to map
 
 ### Dress code
 
-The dress code for the wedding and reception is cocktail attire (Melbourne translation: racewear). That being said, please make sure to wear something in which you feel glamorous, amazing, and comfortable!
-
-We are hoping (touch wood, fingers and toes crossed) for a pleasant summer's day. We may; however, have a very hot day or it may rain. We have contingency plans for both of these outcomes and will let you know if we need to make any adjustments.
-
-Weather permitting, the ceremony will be held in a park. You will be standing and walking on grass.
+The dress code for the celebration is cocktail attire. Declan and I will be wearing our suit and dress (respectively...) from our Australian wedding.
 
 ### Gifts
 
-We are very excited to celebrate this wonderful day with you all. Getting to catch up and share this day with you is more than enough of a gift, so please do not feel obliged to get us anything. Many people are travelling a long way to celebrate with us. Also, we have lived together almost as long as we have be going out. We have absolutely everything we could possibly need, including various shapes of soup spoons and hand towels featuring witty and seasonally-appropriate phrases.
+We are very excited to celebrate this wonderful day with you all. Getting to catch up and share this day with you is more than enough of a gift, and most people are travelling to be here, so please do not feel obliged to get us anything. 
 
-If you would like to get us a gift, we really appreciate your generosity. We both treasure most the amazing experiences that we have been lucky enough to enjoy in our travels. We would love to share those experiences with you. We have some [suggested experiences](https://docs.google.com/document/d/121jmRm3w_LyenWBpNxMy2cFXpWwlXqacypmgaPjKrHA/edit?usp=sharing) against which you can place your name. We will be travelling through Northern Thailand, Laos, and Tokyo and would love your suggestions for activities.
+If you absolutely must get us a gift, we really appreciate your generosity. We both treasure most the amazing experiences that we have been lucky enough to enjoy in our travels. We would love to share those experiences with you. We have some [suggested experiences and gifts](https://docs.google.com/document/d/121jmRm3w_LyenWBpNxMy2cFXpWwlXqacypmgaPjKrHA/edit?usp=sharing) against which you can place your name. 
 
-One important note: we will be leaving Australia with only a small backpack each. We are setting off for six weeks wandering around South East Asia, so we are travelling *very* lightly. We cannot take anything more than our bathers and passports with us. If you would like to get us a physical gift, we will return home to DC in February. Please reach out, and we can provide our address for deliveries.
-
-Finally, we will have a special book at the ceremony and reception to record any kind words in lieu of cards.
-
-### Travelling to and from each venue
-
-#### To the ceremony
-
-We *strongly* recommend using public transport or catching a taxi to get to Blues Point Reserve. There is very limited parking near the park.
-
-::: columns
-::: {.column width="25%"}
-**Closest ferry stop** {{< fa ferry >}} <br><br>
-
-McMahon's Point
-
-<button onclick=" window.open(&#39;https://goo.gl/maps/2pmkN1tnAG2fHgSd9&#39;,&#39;_blank&#39;)">
-
-Link to map
-
-</button>
-:::
-
-::: {.column width="25%"}
-**Closest train stop** {{< fa train >}} <br><br>
-
-North Sydney
-
-<button onclick=" window.open(&#39;https://goo.gl/maps/e9gwMopFTgycpnJc6&#39;,&#39;_blank&#39;)">
-
-Link to map
-
-</button>
-:::
-
-::: {.column width="25%"}
-**Nicest train stop from which to walk** {{< fa train >}}
-
-Milson's Point
-
-<button onclick=" window.open(&#39;https://goo.gl/maps/tbEmdNTnwgoNXneH8&#39;,&#39;_blank&#39;)">
-
-Link to map
-
-</button>
-:::
-
-::: {.column width="25%"}
-**Closest bus stop** {{< fa bus >}} <br><br>
-
-Blues Point Rd at Warung St
-
-<button onclick=" window.open(&#39;https://goo.gl/maps/6xNCi2yKx6sg1X75A&#39;,&#39;_blank&#39;)">
-
-Link to map
-
-</button>
-:::
-:::
-
-<br>
-
-If you arrive early at Blues Point Reserve, we recommend getting a quick drink at the [Blues Point Hotel](https://goo.gl/maps/dzWCCoox4duQ34ybA). The rooftop patio is lovely (but hot!).
-
-#### To the reception
-
-##### Harbour cruise (...kind of)
-
-Declan and I will be catching the ferry to Circular Quay, taking the train to Stanmore Station, and then walking the short distance to Emma's Snack Bar. Everyone is welcome to join us!
-
-*The easiest way to travel on public transport in Sydney is using an [Opal card](https://transportnsw.info/tickets-opal/opal); however, you can also tap on and off using a credit card. Please make sure to bring one of these with you to the ceremony if you want to join our (not so private) harbour cruise!*
-
-##### The slightly more practical option
-
-We will also be ordering taxis to take those who would prefer to drive to the reception.
-
-#### To the after party
-
-Jacoby's Tiki Bar is a short six-minute (450 m) walk from Emma's Snack Bar. We will walk over after the reception.
-
-We will also order taxis for anyone with mobility issues or tired feet. Jacoby's has seating (including some very comfortable booths) for those who need it.
+One important note: we will be leaving Ireland with only a small backpack each. We cannot take large items with us. 
 
 ## RSVP
 
-Please RSVP by 1 November. To do this, please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSddklBOyznJvtEMMVx7WuzBC0NCThCj8Ep-XmYmI5nzenZrQg/viewform?usp=sf_link).
+Please RSVP to Fiona. To do this, please email her at fiona.carr5@gmail.com.
 
 See you soon!
 
-![](img/IMG_8282.jpg)
+![](img/IMG_2088.jpeg)
